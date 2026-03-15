@@ -1,0 +1,48 @@
+@page "{id:int}"
+@model YourAppNamespace.Pages.Products.DetailsModel
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card">
+                <div class="card-header">
+                    <h2>Product Details</h2>
+                </div>
+                <div class="card-body">
+                    @if (Model.Product != null)
+                    {
+                        @if (Model.Product.Price > 1000)
+                        {
+                            <div class="alert alert-success" role="alert">
+                                <strong>Premium Product</strong>
+                            </div>
+                        }
+
+                        <dl class="row">
+                            <dt class="col-sm-3">Product ID:</dt>
+                            <dd class="col-sm-9">@Model.Product.Id</dd>
+
+                            <dt class="col-sm-3">Name:</dt>
+                            <dd class="col-sm-9">@Model.Product.Name</dd>
+
+                            <dt class="col-sm-3">Price:</dt>
+                            <dd class="col-sm-9">
+                                <strong class="text-success">$@Model.Product.Price.ToString("N2")</strong>
+                            </dd>
+
+                            <dt class="col-sm-3">Category:</dt>
+                            <dd class="col-sm-9">@Model.Product.Category</dd>
+                        </dl>
+
+                        <div class="mt-4">
+                            <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

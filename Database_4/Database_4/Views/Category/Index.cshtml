@@ -1,0 +1,38 @@
+﻿@model List<Database_4.EF.Tables.Category>
+
+@{
+    ViewData["Title"] = "Categories List";
+}
+
+<h2>Categories</h2>
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">@TempData["Msg"]</div>
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Category</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Category ID</th>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Id</td>
+                <td>@category.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@category.Id" class="btn btn-info btn-sm">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

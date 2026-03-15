@@ -1,0 +1,6 @@
+﻿namespace Database_4.Controllers
+{
+    public class ProductController
+    {
+    }
+}

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\ef\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\ef\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\database_1\\database_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{161A46B8-E2C2-0AD3-6A85-6C8C14D36317}|Database_1\\Database_1.csproj|solutionrelative:database_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Database_1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Database_1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-08T08:46:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Database_1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Database_1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T12:09:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Database_1\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Database_1\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T12:10:36.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Database_1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Database_1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T12:10:26.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Program.cs",
+              "RelativeDocumentMoniker": "Database_1\\Program.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Program.cs",
+              "RelativeToolTip": "Database_1\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T12:03:09.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Database_1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Database_1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T12:10:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Database_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Database_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:00:11.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Database_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Database_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T12:25:04.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Database_1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Database_1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:13:56.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\EF\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Database_1\\EF\\SchoolDbContext.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\EF\\SchoolDbContext.cs",
+              "RelativeToolTip": "Database_1\\EF\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:18:01.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "Database_1\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "Database_1\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T11:17:59.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\appsettings.json",
+              "RelativeDocumentMoniker": "Database_1\\appsettings.json",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\Database_1\\Database_1\\appsettings.json",
+              "RelativeToolTip": "Database_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T10:31:20.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+@model Database_4.EF.Tables.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<h2>Create New Product</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" type="number" step="0.01" class="form-control" />
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Cid" class="control-label">Category</label>
+        <select asp-for="Cid" asp-items="ViewBag.Categories" class="form-control">
+            <option value="">-- Select Category --</option>
+        </select>
+    </div>
+    
+    <div class="form-group mt-3">
+        <input type="submit" value="Create" class="btn btn-success" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>

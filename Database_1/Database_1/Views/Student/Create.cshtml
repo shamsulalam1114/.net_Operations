@@ -1,0 +1,24 @@
+@model Database_1.EF.Tables.Student
+
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<h2>Create New Student</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="DateOfBirth" class="control-label"></label>
+        <input asp-for="DateOfBirth" type="date" class="form-control" />
+    </div>
+    
+    <div class="form-group mt-3">
+        <input type="submit" value="Create" class="btn btn-success" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>

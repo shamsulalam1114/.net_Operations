@@ -1,0 +1,68 @@
+@page "{id:int}"
+@model YourProjectName.Pages.DetailsModel
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h2 class="mb-0">Product Details</h2>
+                </div>
+                <div class="card-body">
+                    @if (Model.Product != null)
+                    {
+                        @* Conditional rendering: Show "Premium Product" if price > 1000 *@
+                        @if (Model.Product.Price > 1000)
+                        {
+                            <div class="alert alert-success mb-3">
+                                <i class="bi bi-star-fill"></i>
+                                <strong>Premium Product</strong>
+                            </div>
+                        }
+
+                        <div class="mb-3">
+                            <label class="text-muted">Product ID:</label>
+                            <p class="fs-5"><strong>@Model.Product.Id</strong></p>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="text-muted">Name:</label>
+                            <p class="fs-4"><strong>@Model.Product.Name</strong></p>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="text-muted">Price:</label>
+                            <p class="fs-3 text-success">
+                                <strong>$@Model.Product.Price.ToString("N2")</strong>
+                            </p>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="text-muted">Category:</label>
+                            <p class="fs-5">
+                                <span class="badge bg-secondary">@Model.Product.Category</span>
+                            </p>
+                        </div>
+
+                        <hr />
+
+                        <div class="d-flex gap-2">
+                            <a href="/" class="btn btn-primary">
+                                <i class="bi bi-arrow-left"></i> Back to Products
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="alert alert-danger">
+                            Product not found.
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

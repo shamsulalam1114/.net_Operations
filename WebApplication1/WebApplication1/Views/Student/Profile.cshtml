@@ -1,0 +1,54 @@
+@model WebApplication1.Models.Student
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+
+</head>
+<body>
+    <div class="profile-card">
+        <h1>Student Profile</h1>
+
+        <div class="info-row">
+            <span class="label">ID:</span> @Model.Id
+        </div>
+
+        <div class="info-row">
+            <span class="label">Name:</span> @Model.Name
+        </div>
+
+        <div class="info-row">
+            <span class="label">Age:</span> @Model.Age
+            @if (Model.Age >= 18)
+            {
+            <span class="badge adult">Adult</span>
+            }
+            else
+            {
+            <span class="badge minor">Minor</span>
+            }
+        </div>
+
+        <div class="info-row">
+            <span class="label">Department:</span> @Model.Department
+        </div>
+
+        <div class="info-row">
+            <span class="label">CGPA:</span> @Model.CGPA
+            @if (Model.CGPA >= 3.5)
+            {
+            <span class="badge excellent">Excellent</span>
+            }
+            else
+            {
+            <span class="badge average">Average</span>
+            }
+        </div>
+
+        <div class="info-row">
+            <a href="https://localhost:<port>/Student/Profile/1">View Detailed Profile</a>
+        </div>
+    </div>
+</body>
+</html>
