@@ -1,0 +1,24 @@
+﻿@model Database_5.EF.Tables.Author
+
+@{
+    ViewData["Title"] = "Create Author";
+}
+
+<h2>Create New Author</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    
+    <div class="form-group mt-2">
+        <label asp-for="Age" class="control-label"></label>
+        <input asp-for="Age" class="form-control" type="number" />
+    </div>
+    
+    <div class="form-group mt-3">
+        <input type="submit" value="Create" class="btn btn-success" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>
