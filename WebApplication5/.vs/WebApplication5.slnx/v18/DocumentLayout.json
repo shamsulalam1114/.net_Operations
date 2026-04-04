@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A667388F-FB96-43AA-AA64-F8A90ED00816}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A667388F-FB96-43AA-AA64-F8A90ED00816}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A667388F-FB96-43AA-AA64-F8A90ED00816}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A667388F-FB96-43AA-AA64-F8A90ED00816}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A667388F-FB96-43AA-AA64-F8A90ED00816}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A667388F-FB96-43AA-AA64-F8A90ED00816}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\student\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|c:\\my files\\spring 2026\\.net\\mid\\lab codes\\lab_1\\webapplication5\\webapplication5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Models\\Student.cs",
               "RelativeDocumentMoniker": "WebApplication5\\Models\\Student.cs",
@@ -39,6 +47,35 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:19:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:18:35.396Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Profile.cshtml",
@@ -48,25 +85,19 @@
               "RelativeToolTip": "WebApplication5\\Views\\Student\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T11:08:33.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-02-15T11:08:33.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "WebApplication5\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "WebApplication5\\Controllers\\StudentController.cs*",
+              "ToolTip": "C:\\my files\\spring 2026\\.net\\mid\\lab codes\\Lab_1\\WebApplication5\\WebApplication5\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T11:03:30.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T11:03:30.913Z"
             }
           ]
         }

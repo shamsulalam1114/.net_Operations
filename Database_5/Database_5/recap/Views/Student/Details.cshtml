@@ -1,0 +1,33 @@
+﻿@model recap.EF.Tables.Student
+@{
+    ViewData["Title"] = "Student Details";
+}
+<h2>Student Details</h2>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cgpa)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cgpa)
+        </dd>
+        <dt class="col-sm-2">Scholarship</dt>
+        <dd class="col-sm-10">@ViewBag.IsEligible</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>

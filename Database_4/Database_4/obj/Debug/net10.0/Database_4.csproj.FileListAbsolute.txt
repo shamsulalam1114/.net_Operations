@@ -223,3 +223,4 @@ C:\my files\spring 2026\.net\mid\lab codes\Lab_1\Database_4\Database_4\obj\Debug
 C:\my files\spring 2026\.net\mid\lab codes\Lab_1\Database_4\Database_4\obj\Debug\net10.0\Database_4.genruntimeconfig.cache
 C:\my files\spring 2026\.net\mid\lab codes\Lab_1\Database_4\Database_4\obj\Debug\net10.0\ref\Database_4.dll
 C:\my files\spring 2026\.net\mid\lab codes\Lab_1\Database_4\Database_4\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\my files\spring 2026\.net\mid\lab codes\Lab_1\Database_4\Database_4\obj\Debug\net10.0\Database_4.sourcelink.json

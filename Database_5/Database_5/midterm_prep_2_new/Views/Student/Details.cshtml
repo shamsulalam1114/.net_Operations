@@ -1,0 +1,43 @@
+@model midterm_prep_2_new.EF.Tables.Student
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cgpa)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cgpa)
+        </dd>
+        <dt class="col-sm-2">
+            Scholarship Status
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.Cgpa >= 3.75m)
+            {
+                <span class="text-success">Valid for Scholarship</span>
+            }
+            else
+            {
+                <span class="text-danger">Not Eligible</span>
+            }
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
